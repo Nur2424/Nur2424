@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Nur 👋
 
-<!--
-**Nur2424/Nur2424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS & AI student at Sapienza University of Rome (ACSAI program),
+originally from Kyrgyzstan. Interested in machine learning,
+statistical learning theory, and understanding systems from
+first principles rather than just using libraries.
 
-Here are some ideas to get you started:
+## Education
+**BSc Applied Computer Science & AI — Sapienza University of Rome**
+Finished 2nd year. Coursework includes: Linear Algebra, Calculus,
+Probability, Statistics, Algorithms, Computer Architecture,
+AI & Machine Learning (I & II), AI Lab (Computer Vision & NLP),
+Data Management & Analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Incoming 3rd year: Deep Learning, Optimization, Cybersecurity,
+Foundations of Computer Science.
+
+## Projects
+
+- **[microgradplus](https://github.com/Nur2424/microgradplus)** —
+  Scalar autograd engine and MLP library built from scratch in pure
+  Python. Backpropagation, activations, losses (MSE, BCE, hinge),
+  SGD + Adam — all verified against PyTorch with 44 tests.
+  Zero dependencies in the core engine.
+
+- **[ml-network-analysis](https://github.com/Nur2424/ml-network-analysis)** —
+  Network science analysis of 500 top ML/AI GitHub repositories.
+  Bipartite graph projection, Louvain community detection (Q=0.21),
+  centrality analysis, and hypothesis testing on the open-source
+  ML ecosystem structure.
+
+- **[California-housing-ml-project](https://github.com/Nur2424/California-housing-ml-project)** —
+  End-to-end regression pipeline: preprocessing with ColumnTransformer,
+  model comparison (XGBoost, Random Forest, GBM, SVR), GridSearch
+  hyperparameter tuning. Best model: XGBoost, R²=0.84 on test set.
+
+## Skills
+Python · NumPy · PyTorch · NetworkX · pandas · Git ·
+Linear Algebra · Probability & Statistics
+
+## Reach me
+taabaldievnur06@gmail.com
