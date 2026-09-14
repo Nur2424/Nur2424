@@ -1,6 +1,6 @@
 # Hi, I'm Nur 👋
  
-CS and AI student at Sapienza University of Rome (ACSAI program), originally from Kyrgyzstan. I focus on machine learning and understanding systems from first principles building the engine before using the library.
+ML/AI student focused on deep learning, optimization, and ML systems. I build models and learning systems from first principles to understand what happens underneath the abstractions.
  
 ---
  
